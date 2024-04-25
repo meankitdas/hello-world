@@ -1,0 +1,7 @@
+
+Changing it!
+
+This is a simple project to demonstrate Git features.
+
+This is a sample.
+
